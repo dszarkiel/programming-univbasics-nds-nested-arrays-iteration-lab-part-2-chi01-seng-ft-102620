@@ -15,3 +15,4 @@ def find_min_in_nested_arrays(src)
   max_temps << largest_integer
   row_index += 1
 end
+end
